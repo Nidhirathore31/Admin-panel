@@ -13,7 +13,6 @@ const List = ({title,onClick,listClass}) => {
           <span className="no-icon">&nbsp;{title}</span>:
           <p>{title}</p>
           }
-          
         </p>}
       </li>
    </>
